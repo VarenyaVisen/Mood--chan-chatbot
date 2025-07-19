@@ -56,6 +56,6 @@ If no match is found, the bot replies smartly with a fallback message.
 
 ## 📸 Screenshots
 
-![Screenshot](./screenshots/demo.png) <!-- Replace with your actual screenshot path -->
+![Screenshot](chatbot_preview.png) <!-- Replace with your actual screenshot path -->
 
 ---
